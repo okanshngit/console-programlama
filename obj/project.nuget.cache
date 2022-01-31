@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQK/bn2/PpfRZFf0Klx0qd37AN7YIGe01yC5NY8RU4AkNJkH0Ax9FxsvOtGFnL4pxBGoVyn1LC0Xv1O0Z7GTDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\console-programlama\\console-programlama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
